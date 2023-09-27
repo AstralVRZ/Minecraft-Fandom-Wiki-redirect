@@ -11,5 +11,5 @@
 
 (function() {
     'use strict';
-    window.location.href = "https://minecraft.wiki/"
+    window.location.href = "https://minecraft.wiki/";
 })();
