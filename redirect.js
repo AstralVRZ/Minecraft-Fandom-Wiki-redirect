@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Minecraft-Fandom-Wiki-redirect
+// @namespace    https://minecraft.fandom.com/
 // @version      1
-// @description  try to take over the world!
+// @description  Little user script that redirects from minecraft.fandom.com (bad 👎) to minecraft.wiki (good 👍)
 // @author       Astral
 // @match        *://minecraft.fandom.com/*
 // @icon         https://files.catbox.moe/y8i3zz.ico
