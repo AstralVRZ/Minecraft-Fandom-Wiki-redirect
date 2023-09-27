@@ -3,6 +3,8 @@ Little user script that redirects from minecraft.fandom.com (bad 👎) to minecr
 
 I've never done Javascript, so let's see how this works out!
 
+I personally use [Tampermonkey](https://tampermonkey.net/) to run this script.
+
 # Todo list
 - [x] Make it take article paths and redirect to the proper ones
 - [x] Make into gist
