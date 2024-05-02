@@ -10,10 +10,5 @@
 // ==/UserScript==
 
 (function() {
-    var newDomain = "minecraft.wiki";
-    var newURL = location.protocol + "//"+ newDomain + location.pathname
-    /*-- replace() puts the good page in the history instead of the
-        bad page.
-    */
-location.replace (newURL);
+	location.replace(location.href.replace("fandom.com","wiki"));
 })();
